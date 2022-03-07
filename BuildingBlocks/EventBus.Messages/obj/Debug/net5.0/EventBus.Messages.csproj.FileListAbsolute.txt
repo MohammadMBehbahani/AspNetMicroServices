@@ -1,0 +1,12 @@
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.deps.json
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.dll
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\ref\EventBus.Messages.dll
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\bin\Debug\net5.0\EventBus.Messages.pdb
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csproj.AssemblyReference.cache
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfoInputs.cache
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.AssemblyInfo.cs
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.csproj.CoreCompileInputs.cache
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.dll
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\ref\EventBus.Messages.dll
+E:\Project\Microservice\AspNetMicroServices\src\BuildingBlocks\EventBus.Messages\obj\Debug\net5.0\EventBus.Messages.pdb
